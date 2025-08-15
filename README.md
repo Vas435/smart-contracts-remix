@@ -22,8 +22,9 @@ These contracts can be deployed on Ethereum-compatible blockchains such as **Eth
 ---
 
 ## 📂 Project Structure
-cryptoTestament.sol # Smart contract for crypto inheritance
-digitalWill.sol # Smart contract for digital will execution
+-> cryptoTestament.sol # Smart contract for crypto inheritance 
+
+-> digitalWill.sol # Smart contract for digital will execution
 
 ---
 
