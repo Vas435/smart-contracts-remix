@@ -28,8 +28,8 @@ digitalWill.sol # Smart contract for digital will execution
 ---
 
 ## 👉 Steps 
--Open in Remix
--Go to Remix IDE
--Upload cryptoTestament.sol or digitalWill.sol into Remix
--Compile with the correct Solidity compiler version
--Deploy on a local blockchain (e.g., Ganache) or testnet
+- Open in Remix
+- Go to Remix IDE
+- Upload cryptoTestament.sol or digitalWill.sol into Remix
+- Compile with the correct Solidity compiler version
+- Deploy on a local blockchain (e.g., Ganache) or testnet
